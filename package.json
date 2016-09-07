@@ -1,0 +1,26 @@
+{
+    "author": "Quincy's Esoteric Apps",
+    "dependencies": {},
+    "keywords": [],
+    "name": "frenchtime",
+    "pebble": {
+        "displayName": "FrenchTime",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "0d00f2bf-8bc1-4d98-97a8-69b5a532f406",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
