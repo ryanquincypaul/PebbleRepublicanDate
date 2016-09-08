@@ -1,5 +1,5 @@
 # PebbleRepublicanDate
-A normal clock with the French Republican Date.
+A normal clock with the [French Republican Date](https://en.wikipedia.org/wiki/French_Republican_Calendar).
 
 ## Getting Started
 Just copy these files into a project on [CloudPebble](https://cloudpebble.net).
